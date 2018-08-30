@@ -6,3 +6,10 @@ IntelliJ Idea 2018 Community Edition
 Bash
 Git
 Maven
+
+In future, I would like to learn to code in:
+
+C
+C++
+JavaScript
+Python
